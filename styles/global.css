@@ -68,6 +68,11 @@ body {
   background-color: var(--bg-color);
 }
 
+img {
+    max-width: 100%;
+    display: inline-block;
+  }
+
 h1, h2, h3 {
   line-height: 1.2;
   color: var(--text-color-primary);
